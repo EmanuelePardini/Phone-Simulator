@@ -14,4 +14,4 @@ A phone working simulator
 ## Author:
 
 This web app was created by [Emanuele Pardini](http://emanuelepardini.altervista.org/).
-Enjoy using the Hacker News Web App!
+Enjoy!
